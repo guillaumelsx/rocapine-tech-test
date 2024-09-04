@@ -1,0 +1,48 @@
+<svg width="111" height="86" viewBox="0 0 111 86" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#clip0_1_946)">
+        <rect width="111" height="86" rx="8" fill="url(#paint0_linear_1_946)" />
+        <circle cx="8" cy="78" r="86" fill="url(#paint1_radial_1_946)" fill-opacity="0.2" />
+        <circle cx="8" cy="78" r="85.5" stroke="white" stroke-opacity="0.15" />
+        <circle cx="8" cy="78" r="55" fill="url(#paint2_radial_1_946)" fill-opacity="0.49" />
+        <circle cx="8" cy="78" r="54.5" stroke="white" stroke-opacity="0.15" />
+        <circle cx="8" cy="78" r="27" fill="url(#paint3_radial_1_946)" fill-opacity="0.5" />
+        <circle cx="8" cy="78" r="26.5" stroke="white" stroke-opacity="0.15" />
+        <circle cx="8" cy="78" r="10" fill="url(#paint4_radial_1_946)" fill-opacity="0.91" />
+        <circle cx="8" cy="78" r="9.5" stroke="white" stroke-opacity="0.15" />
+        <g style="mix-blend-mode:hard-light">
+            <rect width="136" height="109" fill="#003554" fill-opacity="0.31" />
+        </g>
+    </g>
+    <rect x="0.5" y="0.5" width="110" height="85" rx="7.5" stroke="#BFDBF7" stroke-opacity="0.2" />
+    <defs>
+        <linearGradient id="paint0_linear_1_946" x1="55.5" y1="0" x2="55.5" y2="86"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FFEEDD" />
+            <stop offset="1" stop-color="#EDAE49" />
+        </linearGradient>
+        <radialGradient id="paint1_radial_1_946" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+            gradientTransform="translate(8 78) rotate(90) scale(86)">
+            <stop stop-color="#FF6B35" />
+            <stop offset="1" stop-color="#EDAE49" stop-opacity="0.5" />
+        </radialGradient>
+        <radialGradient id="paint2_radial_1_946" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+            gradientTransform="translate(8 78) rotate(90) scale(55)">
+            <stop stop-color="#FF6B35" />
+            <stop offset="1" stop-color="#EDAE49" stop-opacity="0.5" />
+        </radialGradient>
+        <radialGradient id="paint3_radial_1_946" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+            gradientTransform="translate(8 78) rotate(90) scale(27)">
+            <stop stop-color="#FF6B35" />
+            <stop offset="1" stop-color="#EDAE49" stop-opacity="0.5" />
+        </radialGradient>
+        <radialGradient id="paint4_radial_1_946" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+            gradientTransform="translate(8 78) rotate(90) scale(10)">
+            <stop stop-color="#FF6B35" />
+            <stop offset="1" stop-color="#EDAE49" stop-opacity="0.5" />
+        </radialGradient>
+        <clipPath id="clip0_1_946">
+            <rect width="111" height="86" rx="8" fill="white" />
+        </clipPath>
+    </defs>
+</svg>
+    
